@@ -1,0 +1,31 @@
+.title{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: chocolate;
+    text-transform: uppercase;
+    padding-top:  100px;
+    padding-left: 20px;
+    
+}
+.sous-titre{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    padding-left: 20px;
+    line-height: 2;
+    background-image: linear-gradient(to right, yellow, purple,orange);
+    background-clip: text;
+    color: transparent;
+}
+.paragraph{
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 20px;
+    line-height: 2;
+    font-weight: 200px;
+   
+}
+.image{
+    position: absolute;
+    right: 10px;
+    max-width: 40%;
+    max-height: 40%;
+    border-radius: 50%;
+}

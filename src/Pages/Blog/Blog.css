@@ -1,0 +1,9 @@
+.blog-titre{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    padding-top: 60px;
+    background-image: linear-gradient(to right, yellow, purple,orange);
+    background-clip: text;
+    color: transparent;
+    text-align: center;
+}
